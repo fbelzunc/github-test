@@ -13,3 +13,4 @@ Inject $GITHUB_PAYLOAD 4
 Inject $GITHUB_PAYLOAD 5
 Test CloudBees GitHub Pull request plugin
 Test CloudBees GitHub Pull request plugin 2
+Test CloudBees GitHub Pull request plugin 3
