@@ -11,3 +11,4 @@ Inject $GITHUB_PAYLOAD 2
 Inject $GITHUB_PAYLOAD 3
 Inject $GITHUB_PAYLOAD 4
 Inject $GITHUB_PAYLOAD 5
+Test CloudBees GitHub Pull request plugin
