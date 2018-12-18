@@ -12,3 +12,4 @@ test-dario
 tst-i
 test-24
 tst-25
+test 26
