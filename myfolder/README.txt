@@ -11,3 +11,4 @@ test9
 test-dario
 tst-i
 test-24
+tst-25
