@@ -10,3 +10,4 @@ test8
 test9
 test-dario
 tst-i
+test-24
